@@ -1,0 +1,85 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {480, 320}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{49, 59}, {80, 18}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "mths",
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "MTHS",
+          "uuid" : "C987CA3E-E56C-42D3-B1EC-81E3A0EFFE30",
+          "class" : "Button",
+          "name" : "mths_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{49, 111}, {80, 39}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "Joes",
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "St.Joes",
+          "uuid" : "2DE17F0E-1094-4CC0-A16C-1096887B5953",
+          "class" : "Button",
+          "name" : "St.Joes",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{163, 104}, {179, 93}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "D034A40B-4F5D-4EB7-BF29-19D0BAF794F7",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "Main_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{49, 175}, {80, 39}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "Marcs",
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "St. Marcs",
+          "uuid" : "DA3933E1-E09A-499B-BBAB-37898A412E9F",
+          "class" : "Button",
+          "name" : "Marcs_button",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
